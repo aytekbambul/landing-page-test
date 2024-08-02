@@ -68,8 +68,9 @@ html {
 
 .navbar {
     display: flex;
-    justify-content: space-around;
     color: #fff;
+    justify-content: space-around;
+
 }
 
 
